@@ -1,1 +1,1 @@
-Rails Todo Moja App
+Rails Todo Moja Nova App
